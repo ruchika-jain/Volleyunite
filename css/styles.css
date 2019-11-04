@@ -2,7 +2,6 @@ body{
     height:100vh;
     background: linear-gradient(346deg, rgba(47,43,114,1) 34%, rgba(219,63,78,1) 38%, rgba(219,63,78,1) 49%, rgba(219,63,78,1) 64%, rgba(47,43,114,1) 66%);
     background-size: cover;
-    overflow: hidden;
 }
 
 nav{
